@@ -5,5 +5,4 @@ Just add your file ,check the methods of recovery.
 Supports for all Core Wallet.dat files.
 Supports for all Electrum wallet_default files.
 MyEtherium backup files.
-For better results please switch-off Firewall and antivirus.
 Injoy.
